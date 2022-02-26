@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2d80c7ab4d3448790bfa570118753a3d72b455c6",
+  "SCAN_LINK": "https://polygonscan.com/address/0x2d80c7ab4d3448790bfa570118753a3d72b455c6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Weird Dinosaur",
+  "SYMBOL": "WD",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 80000000000000000000,
+  "DISPLAY_COST": 80,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/Weird-Dinosaur",
+  "SHOW_BACKGROUND": true
+}
